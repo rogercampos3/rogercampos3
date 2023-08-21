@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 😊
 
-<!--
-**rogercampos3/rogercampos3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é roger 
 
-Here are some ideas to get you started:
+-estou etudando na alura
+-estou me desenvolvendo na linguagem javascript
+-utilizo esse espaço para minha organização dos meu projeto desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo ☎️
+
+roger.ferreira.campos@escola.pr.gov.br
+
+![](https://tenor.com/pt-BR/view/thumbs-up-%D8%A7%D9%84%D8%A5%D8%A8%D9%87%D8%A7%D9%85-%D9%84%D8%A3%D8%B9%D9%84%D9%89-okay-good-gif-9499691)
